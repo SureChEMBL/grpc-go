@@ -5,7 +5,7 @@ Maintainer: Debian Go Packaging Team <pkg-go-maintainers@lists.alioth.debian.org
 Uploaders: Dmitry Smirnov <onlyjob@debian.org>,
            Martín Ferrari <tincho@debian.org>,
            Tim Potter <tpot@hpe.com>,
-Build-Depends: debhelper (>= 10),
+Build-Depends: debhelper (>= 9),
                dh-golang (>= 1.17~),
                golang-any (>= 2:1.5.1~),
                golang-github-golang-mock-dev,
